@@ -1,4 +1,4 @@
 # hello-world
-just another repository
-hi, huamans
+
+hi, humans
 i've had tacos on the moon and find them far superior to earth tacos
